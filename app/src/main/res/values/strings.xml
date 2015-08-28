@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="value1">1</string>
+    <string name="value2">2</string>
+    <string name="value3">3</string>
+    <string name="value4">4</string>
+    <string name="value5">5</string>
+    <string name="value6">6</string>
+    <string name="value7">7</string>
+    <string name="value8">8</string>
+    <string name="value9">9</string>
+    <string name="value0">0</string>
+    <string name="valueAdd">+</string>
+    <string name="valueMin">-</string>
+    <string name="valueMul">*</string>
+    <string name="valueDiv">/</string>
+    <string name="valueEqu">=</string>
+    <string name="valuePoint">.</string>
+    <string name="valueClear">C</string>
+    <string name="valueDelete">Del</string>
+</resources>

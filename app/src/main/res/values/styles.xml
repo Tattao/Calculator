@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here.
+            <item name="android:windowNoTitle">true</item>-->
+    </style>
+    <style name="noTitle">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>
